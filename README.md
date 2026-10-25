@@ -52,16 +52,6 @@ Hi! I'm **Aarya Patil**, a Computer Engineering student interested in technology
 
 ---
 
-## ⏱️ Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Coding Statistics"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <table>
@@ -89,17 +79,34 @@ Hi! I'm **Aarya Patil**, a Computer Engineering student interested in technology
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/aaryapatil-5/REPOSITORY_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryapatil-5&repo=REPOSITORY_1&theme=tokyonight&hide_border=true" alt="Featured Project 1"/>
-</a>
-
-<a href="https://github.com/aaryapatil-5/REPOSITORY_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aaryapatil-5&repo=REPOSITORY_2&theme=tokyonight&hide_border=true" alt="Featured Project 2"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔥 <a href="https://github.com/aaryapatil-5/Heatshield">HeatShield</a></h3>
+      An extreme heat early-warning and human thermal stress intelligence project focused on identifying heat risks and supporting vulnerable communities.
+    </td>
+    <td width="50%">
+      <h3>🎓 <a href="https://github.com/aaryapatil-5/ScholarMitra">ScholarMitra</a></h3>
+      A scholarship and fellowship management platform designed to simplify applications, eligibility checks, document verification, and the selection process.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔍 <a href="https://github.com/aaryapatil-5/SchemeWatch">SchemeWatch</a></h3>
+      A project focused on monitoring government schemes and making scheme-related information easier to track and access.
+    </td>
+    <td width="50%">
+      <h3>🏙️ <a href="https://github.com/aaryapatil-5/CivicFix">CivicFix</a></h3>
+      A civic-focused project aimed at helping people report and address local community issues.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>💻 <a href="https://github.com/aaryapatil-5/FixMate">FixMate</a></h3>
+      **First-Year Mini Project** — A universal syntax checker designed to help identify syntax errors and support the debugging process.
+    </td>
+  </tr>
+</table>
 
 ---
 
