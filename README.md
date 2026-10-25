@@ -1,15 +1,11 @@
 
-<!-- ================ GALAXY HEADER ================ -->
+<!-- ================ PURPLE GALAXY HEADER ================ -->
 
 <div align="center">
 
-<img src="./The%20beautiful%20space.jpg" width="100%" alt="Deep Galaxy Universe"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080610,40:35235C,100:9B7BDB&height=200&section=header&text=Aarya%20Patil&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Developer&descAlignY=57&descSize=16" width="100%"/>
 
-<h1>✦ Aarya Patil ✦</h1>
-
-<p><strong>Computer Engineering Student | Developer</strong></p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BBA5F5&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Exploring+Cybersecurity;Learning+Something+New+Every+Day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BBA5F5&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Learning+Something+New+Every+Day;Exploring+Cybersecurity" alt="Typing SVG"/>
 
 </div>
 
