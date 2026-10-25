@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080412,35:302052,70:754879,100:243D60&height=220&section=header&text=Aarya%20Patil&fontSize=52&fontColor=F3EAFB&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Developer&descAlignY=57&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C5A5E8&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Exploring+Cybersecurity;Building+Things+That+Matter" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C5A5E8&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Exploring+Cybersecurity;Building+Things+That+Matter;Always+Learning+Something+New" alt="Typing SVG"/>
 
 <br/>
 
@@ -18,19 +18,13 @@
 
 ## 👩🏻‍💻 About Me
 
-<div align="center">
+I'm **Aarya Patil**, a technology enthusiast who enjoys exploring programming, solving problems, and turning ideas into practical projects.
 
-<img src="https://img.shields.io/badge/HELLO%2C_WORLD-302052?style=flat-square&labelColor=171020"/>
-
-</div>
-
-I'm **Aarya Patil**, a Computer Engineering student at MCT's Rajiv Gandhi Institute of Technology, Mumbai, who enjoys exploring technology, solving problems, and turning ideas into practical projects.
-
-- 🎓 Currently studying Computer Engineering.
 - 💻 Learning programming and software development.
 - 🔐 Exploring **Cybersecurity and Ethical Hacking**.
 - 🚀 Interested in building projects that solve real-world problems.
-- 🌌 Always curious, always learning.
+- 🧩 Improving my problem-solving and technical skills.
+- 🌌 Curious about technology and always open to learning.
 
 ---
 
@@ -38,15 +32,44 @@ I'm **Aarya Patil**, a Computer Engineering student at MCT's Rajiv Gandhi Instit
 
 <div align="center">
 
-### Languages & Tools
+### Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,python,mysql,git,github,vscode&theme=dark" />
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="45" alt="C"/>
+<br/><strong>C</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" alt="Java"/>
+<br/><strong>Java</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" alt="Python"/>
+<br/><strong>Python</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45" alt="SQL / MySQL"/>
+<br/><strong>SQL / MySQL</strong>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+### Tools & Platforms
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-754879?style=for-the-badge&labelColor=171020"/>
-<img src="https://img.shields.io/badge/ETHICAL_HACKING-537F99?style=for-the-badge&labelColor=171020"/>
-<img src="https://img.shields.io/badge/PROBLEM_SOLVING-9272B5?style=for-the-badge&labelColor=171020"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-Version_Control-754879?style=flat-square&labelColor=171020"/>
+<img src="https://img.shields.io/badge/GitHub-Code_Hosting-537F99?style=flat-square&labelColor=171020"/>
+<img src="https://img.shields.io/badge/VS_Code-Code_Editor-9272B5?style=flat-square&labelColor=171020"/>
+
+### Currently Exploring
+
+<img src="https://img.shields.io/badge/Cybersecurity-754879?style=for-the-badge&labelColor=171020"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-537F99?style=for-the-badge&labelColor=171020"/>
+<img src="https://img.shields.io/badge/Problem_Solving-9272B5?style=for-the-badge&labelColor=171020"/>
 
 </div>
 
@@ -56,13 +79,13 @@ I'm **Aarya Patil**, a Computer Engineering student at MCT's Rajiv Gandhi Instit
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaryapatil-5&show_icons=true&hide_border=true&bg_color=100B19&title_color=C5A5E8&icon_color=79B8D4&text_color=E6DDF0&ring_color=9272B5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaryapatil-5&show_icons=true&hide_border=true&bg_color=100B19&title_color=C5A5E8&icon_color=79B8D4&text_color=E6DDF0&ring_color=9272B5" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatil-5&layout=compact&hide_border=true&bg_color=100B19&title_color=79B8D4&text_color=E6DDF0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatil-5&layout=compact&hide_border=true&bg_color=100B19&title_color=79B8D4&text_color=E6DDF0" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=aaryapatil-5&hide_border=true&background=100B19&ring=9272B5&fire=C5A5E8&currStreakLabel=79B8D4&sideLabels=B59AD5&currStreakNum=F3EAFB&sideNums=E6DDF0&dates=A99AB8"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=aaryapatil-5&hide_border=true&background=100B19&ring=9272B5&fire=C5A5E8&currStreakLabel=79B8D4&sideLabels=B59AD5&currStreakNum=F3EAFB&sideNums=E6DDF0&dates=A99AB8" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -202,10 +225,12 @@ A universal syntax checker created as a first-year project to help identify synt
 <a href="https://github.com/aaryapatil-5">
 <img src="https://img.shields.io/badge/GitHub-171020?style=for-the-badge&logo=github&logoColor=C5A5E8" alt="GitHub"/>
 </a>
+
 <a href="https://www.instagram.com/aaryapatil_5/">
 <img src="https://img.shields.io/badge/Instagram-171020?style=for-the-badge&logo=instagram&logoColor=D99BC8" alt="Instagram"/>
 </a>
-<a href="https://www.linkedin.com/">
+
+<a href="https://www.linkedin.com/in/aaryapatil1/">
 <img src="https://img.shields.io/badge/LinkedIn-171020?style=for-the-badge&logo=linkedin&logoColor=79B8D4" alt="LinkedIn"/>
 </a>
 
