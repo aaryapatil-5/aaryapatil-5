@@ -3,31 +3,27 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05040B,35:17102B,70:35235C,100:7862B5&height=220&section=header&text=Aarya%20Patil&fontSize=52&fontColor=F4EDFF&animation=fadeIn&fontAlignY=36&desc=Exploring%20the%20universe%20of%20code&descAlignY=58&descSize=16&descColor=C5B6E8" width="100%"/>
+<img src="./The%20beautiful%20space.jpg" width="100%" alt="Deep Galaxy Universe — Aarya Patil"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=BBA5F5&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Exploring+Cybersecurity;Building+Projects+One+Line+at+a+Time;Curiosity+Is+My+Operating+System" alt="Typing SVG"/>
-
-<br/>
-
-`✦ TRANSMISSION RECEIVED ✦`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BBA5F5&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Learning+Something+New+Every+Day;Exploring+Cybersecurity" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## ☾ The Origin
+## 👩🏻‍💻 About Me
 
-Hi, I'm **Aarya Patil** — a Computer Engineering student exploring the intersection of software development, problem-solving, and cybersecurity.
+Hi! I'm **Aarya Patil**, a Computer Engineering student interested in technology, problem-solving, and building useful projects.
 
 - 🎓 Pursuing Computer Engineering
 - 💻 Learning programming and software development
 - 🔐 Exploring Cybersecurity and Ethical Hacking
-- 🚀 Building practical projects and experimenting with ideas
-- 🌌 Constantly learning, improving, and discovering what's next
+- 🚀 Interested in building practical projects
+- 📚 Always learning and improving my skills
 
 ---
 
-## ✧ The Arsenal
+## 🛠️ Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/C-171326?style=for-the-badge&logo=c&logoColor=C4A7FF"/>
@@ -41,28 +37,42 @@ Hi, I'm **Aarya Patil** — a Computer Engineering student exploring the interse
 
 ---
 
-## ⌘ Current Coordinates
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aaryapatil-5&show_icons=true&hide_border=true&bg_color=070610&title_color=BBA5F5&icon_color=9B7BDB&text_color=C9C2D8&include_all_commits=true" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatil-5&layout=compact&hide_border=true&bg_color=070610&title_color=BBA5F5&text_color=C9C2D8" alt="Most Used Languages"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=aaryapatil-5&background=070610&ring=9B7BDB&fire=C4A7FF&currStreakLabel=BBA5F5&sideLabels=9A8BB5&dates=7C718F&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Development
+### 💻 Development
 
 - Strengthening programming fundamentals
 - Practising Data Structures & Algorithms
 - Improving problem-solving skills
-- Turning ideas into working projects
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Cybersecurity
+### 🔐 Cybersecurity
 
-- Exploring cybersecurity fundamentals
-- Learning about ethical hacking
-- Understanding security vulnerabilities
-- Discovering ways to protect digital systems
+- Exploring cybersecurity
+- Ethical hacking
+- Learning how to identify and prevent security vulnerabilities
 
 </td>
 </tr>
@@ -70,36 +80,36 @@ Hi, I'm **Aarya Patil** — a Computer Engineering student exploring the interse
 
 ---
 
-## 🪐 Worlds I've Built
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>01 · <a href="https://github.com/aaryapatil-5/Heatshield">HeatShield</a></h3>
+<h3>🔥 <a href="https://github.com/aaryapatil-5/Heatshield">HeatShield</a></h3>
 
 An extreme heat early-warning and human thermal stress intelligence project focused on identifying heat risks and supporting vulnerable communities.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02 · <a href="https://github.com/aaryapatil-5/ScholarMitra">ScholarMitra</a></h3>
+<h3>🎓 <a href="https://github.com/aaryapatil-5/ScholarMitra">ScholarMitra</a></h3>
 
-A scholarship and fellowship management platform designed to simplify applications, eligibility checks, document verification, and selection.
+A scholarship and fellowship management platform designed to simplify applications, eligibility checks, document verification, and the selection process.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>03 · <a href="https://github.com/aaryapatil-5/SchemeWatch">SchemeWatch</a></h3>
+<h3>🔍 <a href="https://github.com/aaryapatil-5/SchemeWatch">SchemeWatch</a></h3>
 
 A project focused on monitoring government schemes and making scheme-related information easier to track and access.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04 · <a href="https://github.com/aaryapatil-5/CivicFix">CivicFix</a></h3>
+<h3>🏙️ <a href="https://github.com/aaryapatil-5/CivicFix">CivicFix</a></h3>
 
 A civic-focused project aimed at helping people report and address local community issues.
 
@@ -108,7 +118,7 @@ A civic-focused project aimed at helping people report and address local communi
 <tr>
 <td colspan="2" valign="top">
 
-<h3>05 · <a href="https://github.com/aaryapatil-5/FixMate">FixMate</a></h3>
+<h3>💻 <a href="https://github.com/aaryapatil-5/FixMate">FixMate</a></h3>
 
 **First-Year Mini Project** — A universal syntax checker designed to help identify syntax errors and support the debugging process.
 
@@ -118,32 +128,16 @@ A civic-focused project aimed at helping people report and address local communi
 
 ---
 
-## 📡 GitHub Telemetry
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaryapatil-5&show_icons=true&hide_border=true&bg_color=070610&title_color=BBA5F5&icon_color=9B7BDB&text_color=C9C2D8&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatil-5&layout=compact&hide_border=true&bg_color=070610&title_color=BBA5F5&text_color=C9C2D8" alt="Most Used Languages"/>
-
-<br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=aaryapatil-5&background=070610&ring=9B7BDB&fire=C4A7FF&currStreakLabel=BBA5F5&sideLabels=9A8BB5&dates=7C718F&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 🛰️ Establish a Connection
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 <a href="https://github.com/aaryapatil-5">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-171326?style=for-the-badge&logo=github&logoColor=C4A7FF"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-171326?style=for-the-badge&logo=github&logoColor=C4A7FF"/>
 </a>
 
 <a href="https://www.instagram.com/aaryapatil_5/">
-<img src="https://img.shields.io/badge/Instagram-Find%20Me-171326?style=for-the-badge&logo=instagram&logoColor=C4A7FF"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-171326?style=for-the-badge&logo=instagram&logoColor=C4A7FF"/>
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -154,18 +148,24 @@ A civic-focused project aimed at helping people report and address local communi
 
 ---
 
+## 💡 Daily Inspiration
+
 <div align="center">
 
-### ✦ End of Transmission ✦
-
-*"It always seems impossible until it's done."*
+> "It always seems impossible until it's done."
 
 — Nelson Mandela
 
-<br/>
+</div>
 
-<sub>Lost in the cosmos. Found in the code.</sub>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7862B5,40:35235C,75:17102B,100:05040B&height=110&section=footer" width="100%"/>
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+*Keep learning. Keep building. Keep growing.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7862B5,40:35235C,75:17102B,100:05040B&height=100&section=footer" width="100%"/>
 
 </div>
