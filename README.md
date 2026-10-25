@@ -271,7 +271,7 @@ A universal syntax checker created as a first-year project to help identify synt
 
 <br/><br/>
 
-<sub>Exploring the digital universe, one project at a time.✦
+<sub>Exploring the digital universe, one project at a time. ✦
 Thanks for stopping by — Sparkles all the way ⋆｡°✩</sub>
 
 </div>
