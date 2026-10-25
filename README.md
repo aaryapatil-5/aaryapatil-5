@@ -1,11 +1,15 @@
 
-<!-- ================ DEEP GALAXY HEADER ================ -->
+<!-- ================ GALAXY HEADER ================ -->
 
 <div align="center">
 
-<img src="./The%20beautiful%20space.jpg" width="100%" alt="Deep Galaxy Universe — Aarya Patil"/>
+<img src="./The%20beautiful%20space.jpg" width="100%" alt="Deep Galaxy Universe"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BBA5F5&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Learning+Something+New+Every+Day;Exploring+Cybersecurity" alt="Typing SVG"/>
+<h1>✦ Aarya Patil ✦</h1>
+
+<p><strong>Computer Engineering Student | Developer</strong></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BBA5F5&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Exploring+Cybersecurity;Learning+Something+New+Every+Day" alt="Typing SVG"/>
 
 </div>
 
