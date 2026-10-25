@@ -41,7 +41,7 @@
 ╚══════════════════════════════════╝
 ```
 
-- 🎓 Computer Engineering student at MCT's Rajiv Gandhi Institute of Technology, Mumbai.
+- 🎓 Computer Engineering Student @Mumbai.
 - 💻 Exploring programming and software development.
 - 🔐 Interested in cybersecurity and ethical hacking.
 - 🧩 Enjoy solving problems and building practical projects.
