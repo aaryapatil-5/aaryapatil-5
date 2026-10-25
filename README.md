@@ -65,11 +65,10 @@ Hi! I'm **Aarya Patil**, a Computer Engineering student interested in technology
 </td>
 <td width="50%">
 
-### ☁️ Learning
-- Exploring Cloud Computing
-- Learning Git and GitHub workflows
-- Building practical projects
-
+### 🔐 Cybersecurity
+  - Exploring cybersecurity
+  - Ethical hacking 
+  - learning how to identify and prevent security vulnerabilities.
 </td>
 </tr>
 </table>
