@@ -1,11 +1,17 @@
 
-<!-- ================ PURPLE GALAXY HEADER ================ -->
+<!-- ================ CYBERPUNK NEON HEADER ================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080610,40:35235C,100:9B7BDB&height=200&section=header&text=Aarya%20Patil&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Developer&descAlignY=57&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:4B0082,55:FF1493,80:00BFFF,100:090014&height=200&section=header&text=Aarya%20Patil&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Developer&descAlignY=57&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BBA5F5&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Learning+Something+New+Every+Day;Exploring+Cybersecurity" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69D4&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Exploring+Cybersecurity;Building+Things+That+Matter" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF1493?style=for-the-badge&labelColor=090014" />
+<img src="https://img.shields.io/badge/CLASS-ENGINEERING-00BFFF?style=for-the-badge&labelColor=090014" />
+<img src="https://img.shields.io/badge/MODE-LEARNING-9D4EDD?style=for-the-badge&labelColor=090014" />
 
 </div>
 
@@ -13,27 +19,40 @@
 
 ## 👩🏻‍💻 About Me
 
-Hi! I'm **Aarya Patil**, a Computer Engineering student interested in technology, problem-solving, and building useful projects.
+```text
+> Initializing developer profile...
+> Identity: Aarya Patil
+> Field: Computer Engineering
+> Current mission: Learn, build, and improve.
+```
 
-- 🎓 Pursuing Computer Engineering
-- 💻 Learning programming and software development
-- 🔐 Exploring Cybersecurity and Ethical Hacking
-- 🚀 Interested in building practical projects
-- 📚 Always learning and improving my skills
+- 🎓 Computer Engineering student at MCT's Rajiv Gandhi Institute of Technology, Mumbai.
+- 💻 Learning programming and software development.
+- 🔐 Exploring **Cybersecurity and Ethical Hacking**.
+- 🚀 Interested in building practical projects that solve real-world problems.
+- 🌌 Curious about technology, problem-solving, and continuous learning.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/C-171326?style=for-the-badge&logo=c&logoColor=C4A7FF"/>
-<img src="https://img.shields.io/badge/Java-171326?style=for-the-badge&logo=openjdk&logoColor=C4A7FF"/>
-<img src="https://img.shields.io/badge/Python-171326?style=for-the-badge&logo=python&logoColor=C4A7FF"/>
-<img src="https://img.shields.io/badge/SQL-171326?style=for-the-badge&logo=mysql&logoColor=C4A7FF"/>
-<img src="https://img.shields.io/badge/Git-171326?style=for-the-badge&logo=git&logoColor=C4A7FF"/>
-<img src="https://img.shields.io/badge/GitHub-171326?style=for-the-badge&logo=github&logoColor=C4A7FF"/>
-<img src="https://img.shields.io/badge/VS_Code-171326?style=for-the-badge&logo=visualstudiocode&logoColor=C4A7FF"/>
-</p>
+<div align="center">
+
+### `// LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" />
+
+### `// TOOLS & PLATFORMS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+### `// EXPLORING`
+
+<img src="https://img.shields.io/badge/Cybersecurity-FF1493?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=090014" />
+<img src="https://img.shields.io/badge/Ethical_Hacking-00BFFF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=090014" />
+<img src="https://img.shields.io/badge/Problem_Solving-9D4EDD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=090014" />
+
+</div>
 
 ---
 
@@ -41,13 +60,13 @@ Hi! I'm **Aarya Patil**, a Computer Engineering student interested in technology
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aaryapatil-5&show_icons=true&hide_border=true&bg_color=070610&title_color=BBA5F5&icon_color=9B7BDB&text_color=C9C2D8&include_all_commits=true" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaryapatil-5&show_icons=true&hide_border=true&bg_color=090014&title_color=FF69D4&icon_color=00BFFF&text_color=E6D9FF&ring_color=9D4EDD" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatil-5&layout=compact&hide_border=true&bg_color=070610&title_color=BBA5F5&text_color=C9C2D8" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatil-5&layout=compact&hide_border=true&bg_color=090014&title_color=00BFFF&text_color=E6D9FF" />
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=aaryapatil-5&background=070610&ring=9B7BDB&fire=C4A7FF&currStreakLabel=BBA5F5&sideLabels=9A8BB5&dates=7C718F&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=aaryapatil-5&hide_border=true&background=090014&ring=FF1493&fire=00BFFF&currStreakLabel=FF69D4&sideLabels=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BBA5F5" />
 
 </div>
 
@@ -62,17 +81,19 @@ Hi! I'm **Aarya Patil**, a Computer Engineering student interested in technology
 ### 💻 Development
 
 - Strengthening programming fundamentals
-- Practising Data Structures & Algorithms
-- Improving problem-solving skills
+- Building useful projects
+- Practising Data Structures and Algorithms
+- Learning software development concepts
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔐 Cybersecurity
 
-- Exploring cybersecurity
-- Ethical hacking
-- Learning how to identify and prevent security vulnerabilities
+- Exploring security fundamentals
+- Learning ethical hacking concepts
+- Understanding common vulnerabilities
+- Developing a security-first mindset
 
 </td>
 </tr>
@@ -86,41 +107,53 @@ Hi! I'm **Aarya Patil**, a Computer Engineering student interested in technology
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔥 <a href="https://github.com/aaryapatil-5/Heatshield">HeatShield</a></h3>
+### 🌡️ HeatShield
 
-An extreme heat early-warning and human thermal stress intelligence project focused on identifying heat risks and supporting vulnerable communities.
+Extreme Heat Early Warning & Human Thermal Stress Intelligence.
+
+A project focused on identifying heat risks and supporting vulnerable urban communities.
+
+[**↗ Explore Project**](https://github.com/aaryapatil-5/Heatshield)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎓 <a href="https://github.com/aaryapatil-5/ScholarMitra">ScholarMitra</a></h3>
+### 🎓 ScholarMitra
 
-A scholarship and fellowship management platform designed to simplify applications, eligibility checks, document verification, and the selection process.
+A scholarship and fellowship management platform designed to organise applications and related workflows.
+
+[**↗ Explore Project**](https://github.com/aaryapatil-5/ScholarMitra)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔍 <a href="https://github.com/aaryapatil-5/SchemeWatch">SchemeWatch</a></h3>
+### 🏛️ SchemeWatch
 
-A project focused on monitoring government schemes and making scheme-related information easier to track and access.
+A project focused on government scheme information and monitoring.
+
+[**↗ Explore Project**](https://github.com/aaryapatil-5/SchemeWatch)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🏙️ <a href="https://github.com/aaryapatil-5/CivicFix">CivicFix</a></h3>
+### 🛠️ CivicFix
 
-A civic-focused project aimed at helping people report and address local community issues.
+A community-focused project for reporting and addressing local civic issues.
+
+[**↗ Explore Project**](https://github.com/aaryapatil-5/CivicFix)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<h3>💻 <a href="https://github.com/aaryapatil-5/FixMate">FixMate</a></h3>
+### ⚡ FixMate
 
-**First-Year Mini Project** — A universal syntax checker designed to help identify syntax errors and support the debugging process.
+A universal syntax checker created as a first-year project to help identify syntax errors in code.
+
+[**↗ Explore Project**](https://github.com/aaryapatil-5/FixMate)
 
 </td>
 </tr>
@@ -133,16 +166,18 @@ A civic-focused project aimed at helping people report and address local communi
 <div align="center">
 
 <a href="https://github.com/aaryapatil-5">
-<img src="https://img.shields.io/badge/GitHub-Follow-171326?style=for-the-badge&logo=github&logoColor=C4A7FF"/>
+<img src="https://img.shields.io/badge/GitHub-090014?style=for-the-badge&logo=github&logoColor=FF69D4" />
 </a>
-
 <a href="https://www.instagram.com/aaryapatil_5/">
-<img src="https://img.shields.io/badge/Instagram-Follow-171326?style=for-the-badge&logo=instagram&logoColor=C4A7FF"/>
+<img src="https://img.shields.io/badge/Instagram-090014?style=for-the-badge&logo=instagram&logoColor=FF1493" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-090014?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-171326?style=for-the-badge&logo=linkedin&logoColor=C4A7FF"/>
-</a>
+<br/><br/>
+
+💌 Open to learning, collaborating, and building interesting projects.
 
 </div>
 
@@ -152,7 +187,7 @@ A civic-focused project aimed at helping people report and address local communi
 
 <div align="center">
 
-> "It always seems impossible until it's done."
+### <span style="color:#FF69D4">"It always seems impossible until it's done."</span>
 
 — Nelson Mandela
 
@@ -162,10 +197,11 @@ A civic-focused project aimed at helping people report and address local communi
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,25:4B0082,55:FF1493,80:00BFFF,100:090014&height=120&section=footer" width="100%"/>
 
-*Keep learning. Keep building. Keep growing.*
+<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-FF1493?style=flat-square&labelColor=090014" />
+<img src="https://img.shields.io/badge/POWERED_BY-COFFEE_%26_CODE-00BFFF?style=flat-square&labelColor=090014" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7862B5,40:35235C,75:17102B,100:05040B&height=100&section=footer" width="100%"/>
+<sub>Exploring the digital universe, one project at a time. ✦</sub>
 
 </div>
